@@ -2,7 +2,7 @@
 
 ## What am I scraping for? 
 
-<scr img(camerapic.jpg)>
+<img src=camerapic.jpg />
 
 **Cameras**
 ***Say cheese!***
