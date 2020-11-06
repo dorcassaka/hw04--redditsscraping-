@@ -4,7 +4,8 @@
 
 <img src=camerapic.jpg />
 
-**Cameras**
+**Cameras!**
+
 ***Say cheese!***
 
 ## Want more information about this project? 
